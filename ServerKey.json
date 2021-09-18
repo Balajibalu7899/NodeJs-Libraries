@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ocean-park-621",
+  "private_key_id": "287e68901ead2cdb4eee7a0cdc7aece875a4be9a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCh3jMPJ/G1+TVY\nBI2lliazad5A2J94wh/EGXO3AuSWNxHl0MGNXJKZyutfEbwSje/F/3VIIoQ8YHBR\nzF1gJVFF0jkD2fEo+6jGHm5L9fRdpca8eIENerS/hylVozIiqECN7yFeD6UMkijH\nCm4QkYW2YO33M8rmZe+nFcQpa925Weje2E8VVhCcQE2nYfm+tQwyUetpoLBiPM4l\ncVah98b/Ayx3xBxKKejkVJV/CfxkXau2QZ9TpjGQN+iwKPWtmJ0FyCURt5An11P1\nDX9NRwvvA5gddj5gXea98TfWQCKcVdw3Xgm0RLpT13y+Z2FGRIslq8gE5zC5OU42\nSXA97Q+LAgMBAAECggEABlcEiyaGd8xFgLRY84nghSymqSwmGHdxNN/F7pg2tmpJ\nkXjhakIcdqXO6nMKE0ErVlPg1sz0GF5/0VLFIecERzOD/fi5n3nP5mA6jYLm9qRv\nsGHl6BtZj5p7J3ptx2BT4VtJSsmN4a93cmhTReN1QcUlI1M/fx7lMDDdjvCSVCUE\nUsuobxoMj9KlgixbSCS0ZQ4Dw+d2b/VDQR7BZijA5eIPwmGARBPzwToeOMqzW3Ck\npGusNc48qspifaXv8bLPwBAW04Sp1RYueJUQ8fnhFXPzgv9HxpTN17WQ3qYt0ezt\n0lcPkytvmi0pgorhzd8LgnZHoqWBBVBhUIFjBd+T8QKBgQDRAXFXlt/okQtP+3bx\n4BDmB7GqkL9dMx4vonI6zLe6gzK+CVDjBulVtVvyOnv2HacuvMZHK/Qw2SB7Uatr\nNiAKiC/o4ihi1hnRcijyPnH3g+sSr2lT5NFOYEk/48c5K0vYIZdJrAGkzXtLvuqL\nzVqT7Q0N6uzgOVh6e4JSKhs6sQKBgQDGQ3gOyQW0AmPSUQGxs7LEEKKVxDP/ekRd\nv3uFfyq9kA297EZhPz3CXk5uf8DDSu5y+aFCU3j9O1mPktiyKoXXcoK21Z9rDtG6\nw2e5hhvA1yQdDm3RRj6xWODOtPF64Q1kY3qLRXxnA5OA8SrCquyZu4If0x1nNN7M\nuE3pTbvE+wKBgQCpA5apcwuMYUaZnkt4m25u5kfpG3Z0orLFaIMhQ41L2W6+OIBd\npqgoNCmvf1XhF+erJuLciRHGMr9OmiOZ5kIQ4kKD++cWzfZA5iVwh8jXlKkTCiCN\nxBryW3DApqzjcTy7Aab634rQv432GeRHu3+E4gxNde2qARWorpobYYt1cQKBgQCh\nhnw8h3f3BO9wfIDF1uIwrGDZZWT7ohAq1IL86vLWR5N6hRF9zvkw7oY1ri1MrjKA\nR3IiyEDNBtpbh0a2OMCcG3X1IStlHEiwQNyzoFfiDyUj6wp7MiCHeiKFJZOLCelQ\nPV+sMas9fgNhTJoKyRhD0ykbZnMRD1jpLsqC5cqxmwKBgQDJqVP4/6X1IpNd9WEt\nSAW5G+i3rDHnQFByB1g7doP3dP20h6nmfm2oRw377DfRUrK8C0yB6EQK2m5r84DF\njtf22lLtDldz0aC96zX6gpTyDIguIUQiCorJofw4ZtuTD00y66inr2GAfh+/8Lxy\ngf9cKUY5LjHETk5q44KZ2Vu2Mw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1qhmc@ocean-park-621.iam.gserviceaccount.com",
+  "client_id": "101340089302262527032",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1qhmc%40ocean-park-621.iam.gserviceaccount.com"
+}
